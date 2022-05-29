@@ -1,0 +1,13 @@
+GET http://localhost:3000/api/search/twitch?search=롤
+
+###
+
+GET http://localhost:3000/api/search/youtube?search=침착맨
+
+###
+
+GET http://localhost:3000/api/search/dailymotion?search=침착맨
+
+### 
+
+GET http://localhost:3000/api/search/soundcloud?search=침착맨
