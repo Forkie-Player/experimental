@@ -1,0 +1,14 @@
+{
+  "name": "twitch-crawl",
+  "version": "1.0.0",
+  "description": "트위치 크롤링 연습",
+  "main": "index.js",
+  "repository": "https://github.com/Forkie-Player/experimental.git",
+  "author": "Seongil-Shin <callmeshin75@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.10",
+    "node": "^17.7.2",
+    "puppeteer": "^14.1.0"
+  }
+}
