@@ -11,8 +11,7 @@ router.get("/", async (req, res) => {
       );
       res.send(result.data);
    } catch (e) {
-      console.log(e.response);
-      res.send("error");
+      res.status(500).send("soundcloud search error");
    }
 });
 
